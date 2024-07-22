@@ -1,5 +1,5 @@
 Name : Firaol Admasu
-Section :
+Section : A
 Department : Software Engineering
 
 add your id number
